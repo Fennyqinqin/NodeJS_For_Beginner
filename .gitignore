@@ -1,0 +1,17 @@
+# Ignore the massive dependencies folder
+node_modules/
+
+# Ignore the massive dependencies folder
+node_modules/
+
+# Ignore production builds
+dist/
+build/
+
+# Ignore local environment environment variables and keys
+.env
+.env.local
+
+# Ignore logs
+*.log
+npm-debug.log*
